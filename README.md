@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alujack
-- 👀 I’m interested in New tred Technology
+- 👀 I’m interested in New trend Technology
 - 🌱 I’m currently learning Information technology
 - 💞️ I’m looking to collaborate on with software Engineer team
 - 📫 How to reach me https://alujack.github.io/updatePortfolio/
